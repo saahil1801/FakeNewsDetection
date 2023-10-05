@@ -1,6 +1,7 @@
 # FakeNewsDetection
 
-https://www.livelaw.in/h-upload/2019/03/03/1500x900_358762-fake-news.jpg
+![1500x900_358762-fake-news](https://github.com/saahil1801/FakeNewsDetection/assets/84408557/a6a7b733-39c8-47ad-8c74-f578c8d6fc27)
+
 
 Detecting fake news is a critical application of Natural Language Processing (NLP) and Machine Learning (ML). This project leverages Recurrent Neural Networks (RNNs) and Long Short Term Memory (LSTM) networks to identify fake news articles based on their textual content.
 
